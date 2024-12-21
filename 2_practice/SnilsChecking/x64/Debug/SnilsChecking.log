@@ -1,0 +1,3 @@
+﻿  SnilsChecking.cpp
+D:\выбирай итмо и не  выбирай вообще\5 сем\прога\2_practice\SnilsChecking\SnilsChecking.cpp(52,1): warning C4715: GetCheckNumber: значение возвращается не при всех путях выполнения
+  SnilsChecking.vcxproj -> D:\выбирай итмо и не  выбирай вообще\5 сем\прога\2_practice\x64\Debug\SnilsChecking.exe

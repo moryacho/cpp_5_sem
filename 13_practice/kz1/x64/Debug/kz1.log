@@ -1,0 +1,5 @@
+﻿  kz1.cpp
+C:\Users\user\source\repos\C++\Practice13\kz1\student.h(14,35): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "kz1.cpp")
+  
+  kz1.vcxproj -> C:\Users\user\source\repos\C++\Practice13\kz1\x64\Debug\kz1.exe

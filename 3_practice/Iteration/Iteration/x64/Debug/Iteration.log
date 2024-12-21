@@ -1,0 +1,4 @@
+﻿  Iteration.cpp
+D:\выбирай итмо и не  выбирай вообще\5 сем\прога\3_practice\Iteration\Iteration.cpp(28,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\выбирай итмо и не  выбирай вообще\5 сем\прога\3_practice\Iteration\Iteration.cpp(34,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Iteration.vcxproj -> D:\выбирай итмо и не  выбирай вообще\5 сем\прога\3_practice\Iteration\x64\Debug\Iteration.exe

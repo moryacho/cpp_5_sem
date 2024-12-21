@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\cpp_5_sem\\8_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4D7980-882A-4D89-92A9-C81581A52D4F}|kz1\\kz1.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\cpp_5_sem\\8_practice\\kz1\\kz1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE4D7980-882A-4D89-92A9-C81581A52D4F}|kz1\\kz1.vcxproj|solutionrelative:kz1\\kz1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8AED60-A75B-4F93-B12A-09EBBEAC40BF}|ex5\\ex5.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\cpp_5_sem\\8_practice\\ex5\\ex5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C8AED60-A75B-4F93-B12A-09EBBEAC40BF}|ex5\\ex5.vcxproj|solutionrelative:ex5\\ex5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kz1.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\cpp_5_sem\\8_practice\\kz1\\kz1.cpp",
+              "RelativeDocumentMoniker": "kz1\\kz1.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\cpp_5_sem\\8_practice\\kz1\\kz1.cpp",
+              "RelativeToolTip": "kz1\\kz1.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T09:40:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex5.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\cpp_5_sem\\8_practice\\ex5\\ex5.cpp",
+              "RelativeDocumentMoniker": "ex5\\ex5.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\cpp_5_sem\\8_practice\\ex5\\ex5.cpp",
+              "RelativeToolTip": "ex5\\ex5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T09:38:40.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
