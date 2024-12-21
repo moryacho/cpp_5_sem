@@ -1,0 +1,3 @@
+﻿  SuperPrimaNumber.cpp
+D:\выбирай итмо и не  выбирай вообще\5 сем\прога\2_practice\SuperPrimaNumber\SuperPrimaNumber.cpp(43,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SuperPrimaNumber.vcxproj -> D:\выбирай итмо и не  выбирай вообще\5 сем\прога\2_practice\x64\Debug\SuperPrimaNumber.exe

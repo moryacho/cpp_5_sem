@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\6_practice\\ex2\\ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0A36F7-6B20-48C4-A9E3-16CE34630207}|SuperPrimaNumber\\SuperPrimaNumber.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\SuperPrimaNumber\\SuperPrimaNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C0A36F7-6B20-48C4-A9E3-16CE34630207}|SuperPrimaNumber\\SuperPrimaNumber.vcxproj|solutionrelative:SuperPrimaNumber\\SuperPrimaNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655E7EB-6AC8-4B1A-A7A5-5D278894FC06}|Ex1_task1\\Ex1.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex1_task1\\Ex1_task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3655E7EB-6AC8-4B1A-A7A5-5D278894FC06}|Ex1_task1\\Ex1.vcxproj|solutionrelative:Ex1_task1\\Ex1_task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE69A0B-D585-442D-A693-54A73F261296}|Ex2_task1\\Ex3.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex2_task1\\Ex2_task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EE69A0B-D585-442D-A693-54A73F261296}|Ex2_task1\\Ex3.vcxproj|solutionrelative:Ex2_task1\\Ex2_task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4568B123-4EF5-429B-996E-AB95D5946266}|Ex1_task2\\Ex2.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex1_task2\\Ex1_task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4568B123-4EF5-429B-996E-AB95D5946266}|Ex1_task2\\Ex2.vcxproj|solutionrelative:Ex1_task2\\Ex1_task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C48192-2E43-4DC7-8AB8-BA2C302A0AF5}|TargetShooting\\TargetShooting.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\TargetShooting\\TargetShooting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C48192-2E43-4DC7-8AB8-BA2C302A0AF5}|TargetShooting\\TargetShooting.vcxproj|solutionrelative:TargetShooting\\TargetShooting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11141120-CD22-4762-B83A-D60D318697E1}|SnilsChecking\\SnilsChecking.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\SnilsChecking\\SnilsChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11141120-CD22-4762-B83A-D60D318697E1}|SnilsChecking\\SnilsChecking.vcxproj|solutionrelative:SnilsChecking\\SnilsChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E1D4A4-0C61-4070-99F2-15CC079A55EC}|GreedyAlgo\\GreedyAlgo.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\GreedyAlgo\\GreedyAlgo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74E1D4A4-0C61-4070-99F2-15CC079A55EC}|GreedyAlgo\\GreedyAlgo.vcxproj|solutionrelative:GreedyAlgo\\GreedyAlgo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309A2E6D-55F0-45D2-93C5-638132195883}|Ex4\\Ex4.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex4\\Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{309A2E6D-55F0-45D2-93C5-638132195883}|Ex4\\Ex4.vcxproj|solutionrelative:Ex4\\Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B802950-8157-416E-8B2A-F7909DFBB57B}|Ex3\\Ex_3.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex3\\Ex_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B802950-8157-416E-8B2A-F7909DFBB57B}|Ex3\\Ex_3.vcxproj|solutionrelative:Ex3\\Ex_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191D6571-9036-4E63-8578-EA4EB3EFC68D}|Ex2_task2\\Ex2_task2.vcxproj|D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex2_task2\\Ex2_task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{191D6571-9036-4E63-8578-EA4EB3EFC68D}|Ex2_task2\\Ex2_task2.vcxproj|solutionrelative:Ex2_task2\\Ex2_task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex2.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\6_practice\\ex2\\ex2.cpp",
+              "RelativeDocumentMoniker": "..\\6_practice\\ex2\\ex2.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\6_practice\\ex2\\ex2.cpp",
+              "RelativeToolTip": "..\\6_practice\\ex2\\ex2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:26:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex1_task1.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex1_task1\\Ex1_task1.cpp",
+              "RelativeDocumentMoniker": "Ex1_task1\\Ex1_task1.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex1_task1\\Ex1_task1.cpp",
+              "RelativeToolTip": "Ex1_task1\\Ex1_task1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:48:52.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex1_task2.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex1_task2\\Ex1_task2.cpp",
+              "RelativeDocumentMoniker": "Ex1_task2\\Ex1_task2.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex1_task2\\Ex1_task2.cpp",
+              "RelativeToolTip": "Ex1_task2\\Ex1_task2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:49:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex2_task1.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex2_task1\\Ex2_task1.cpp",
+              "RelativeDocumentMoniker": "Ex2_task1\\Ex2_task1.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex2_task1\\Ex2_task1.cpp",
+              "RelativeToolTip": "Ex2_task1\\Ex2_task1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:49:13.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ex2_task2.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex2_task2\\Ex2_task2.cpp",
+              "RelativeDocumentMoniker": "Ex2_task2\\Ex2_task2.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex2_task2\\Ex2_task2.cpp",
+              "RelativeToolTip": "Ex2_task2\\Ex2_task2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:49:19.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ex_3.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex3\\Ex_3.cpp",
+              "RelativeDocumentMoniker": "Ex3\\Ex_3.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex3\\Ex_3.cpp",
+              "RelativeToolTip": "Ex3\\Ex_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:49:35.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ex4.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex4\\Ex4.cpp",
+              "RelativeDocumentMoniker": "Ex4\\Ex4.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\Ex4\\Ex4.cpp",
+              "RelativeToolTip": "Ex4\\Ex4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:49:46.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SnilsChecking.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\SnilsChecking\\SnilsChecking.cpp",
+              "RelativeDocumentMoniker": "SnilsChecking\\SnilsChecking.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\SnilsChecking\\SnilsChecking.cpp",
+              "RelativeToolTip": "SnilsChecking\\SnilsChecking.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T06:57:27.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TargetShooting.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\TargetShooting\\TargetShooting.cpp",
+              "RelativeDocumentMoniker": "TargetShooting\\TargetShooting.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\TargetShooting\\TargetShooting.cpp",
+              "RelativeToolTip": "TargetShooting\\TargetShooting.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T19:55:18.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GreedyAlgo.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\GreedyAlgo\\GreedyAlgo.cpp",
+              "RelativeDocumentMoniker": "GreedyAlgo\\GreedyAlgo.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\GreedyAlgo\\GreedyAlgo.cpp",
+              "RelativeToolTip": "GreedyAlgo\\GreedyAlgo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:49:59.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperPrimaNumber.cpp",
+              "DocumentMoniker": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\SuperPrimaNumber\\SuperPrimaNumber.cpp",
+              "RelativeDocumentMoniker": "SuperPrimaNumber\\SuperPrimaNumber.cpp",
+              "ToolTip": "D:\\\u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0438\u0442\u043C\u043E \u0438 \u043D\u0435  \u0432\u044B\u0431\u0438\u0440\u0430\u0439 \u0432\u043E\u043E\u0431\u0449\u0435\\5 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0430\\2_practice\\SuperPrimaNumber\\SuperPrimaNumber.cpp",
+              "RelativeToolTip": "SuperPrimaNumber\\SuperPrimaNumber.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:50:13.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\user\source\repos\C++\Practice12\ConsoleApplication1\student.h(17,35): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\C++\Practice12\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
